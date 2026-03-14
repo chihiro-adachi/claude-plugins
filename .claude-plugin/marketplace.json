@@ -13,6 +13,11 @@
       "name": "codex-plan-review",
       "source": "./plugins/codex-plan-review",
       "description": "Claude Codeの実装計画をCodex CLIでレビューするプラグイン"
+    },
+    {
+      "name": "skill-analyzer",
+      "source": "./plugins/skill-analyzer",
+      "description": "スキル実行時のエラーや問題点を解析するプラグイン"
     }
   ]
 }

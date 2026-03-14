@@ -8,6 +8,7 @@ Claude Code 用のプラグイン集です。
 | --- | --- |
 | [claude-changelog](plugins/claude-changelog/) | Claude Code の変更履歴を確認する |
 | [codex-plan-review](plugins/codex-plan-review/) | 実装計画を Codex CLI でレビューする |
+| [skill-analyzer](plugins/skill-analyzer/) | スキル実行時のエラーや問題点を解析する |
 
 ## インストール
 
