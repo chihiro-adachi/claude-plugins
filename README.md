@@ -7,6 +7,7 @@ Claude Code 用のプラグイン集です。
 | プラグイン | 説明 |
 | --- | --- |
 | [claude-changelog](plugins/claude-changelog/) | Claude Code の変更履歴を確認する |
+| [codex-plan-review](plugins/codex-plan-review/) | 実装計画を Codex CLI でレビューする |
 
 ## インストール
 

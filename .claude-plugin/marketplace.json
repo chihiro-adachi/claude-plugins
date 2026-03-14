@@ -8,6 +8,11 @@
       "name": "claude-changelog",
       "source": "./plugins/claude-changelog",
       "description": "Claude Codeの変更履歴を確認するプラグイン"
+    },
+    {
+      "name": "codex-plan-review",
+      "source": "./plugins/codex-plan-review",
+      "description": "Claude Codeの実装計画をCodex CLIでレビューするプラグイン"
     }
   ]
 }
