@@ -18,6 +18,11 @@
       "name": "skill-analyzer",
       "source": "./plugins/skill-analyzer",
       "description": "スキル実行時のエラーや問題点を解析するプラグイン"
+    },
+    {
+      "name": "codex-plan-check",
+      "source": "./plugins/codex-plan-check",
+      "description": "Claude Codeの実装計画をCodex MCPサーバーで単発レビューするプラグイン"
     }
   ]
 }
