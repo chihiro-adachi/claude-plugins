@@ -1,5 +1,5 @@
 {
-  "name": "skill-analyzer",
+  "name": "skill-execution-analyzer",
   "version": "0.1.0",
   "description": "スキル実行時のエラーや問題点を解析するプラグイン"
 }

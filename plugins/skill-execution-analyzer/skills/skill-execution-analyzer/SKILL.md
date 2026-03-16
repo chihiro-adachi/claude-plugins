@@ -1,9 +1,9 @@
 ---
-name: skill-analyzer
-description: This skill should be used when the user asks to "analyze skill execution", "check skill logs", "review skill run", "スキルを解析", "スキルの実行ログを確認", "スキルの問題点を調べて", "skill-analyzer", or wants to review how a skill performed during a session by comparing the transcript against SKILL.md.
+name: skill-execution-analyzer
+description: This skill should be used when the user asks to "analyze skill execution", "check skill logs", "review skill run", "スキルを解析", "スキルの実行ログを確認", "スキルの問題点を調べて", "skill-execution-analyzer", or wants to review how a skill performed during a session by comparing the transcript against SKILL.md.
 ---
 
-# Skill Analyzer
+# Skill Execution Analyzer
 
 セッショントランスクリプト（jsonl）と SKILL.md を照合し、スキル実行時のエラー・仕様逸脱・改善点を自動的にリストアップするスキル。
 

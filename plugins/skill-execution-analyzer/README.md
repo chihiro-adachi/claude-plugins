@@ -1,4 +1,4 @@
-# skill-analyzer
+# skill-execution-analyzer
 
 スキル実行時のエラーや問題点を解析するプラグイン。
 
@@ -12,10 +12,10 @@
 
 ## 使い方
 
-`/skill-analyzer` を実行、または自然言語で質問する。
+`/skill-execution-analyzer` を実行、または自然言語で質問する。
 
 ```
-/skill-analyzer
+/skill-execution-analyzer
 ```
 
 ```
@@ -23,7 +23,7 @@
 ```
 
 ```
-skill-analyzer で claude-changelog スキルの実行ログを確認して
+skill-execution-analyzer で claude-changelog スキルの実行ログを確認して
 ```
 
 ## オプション

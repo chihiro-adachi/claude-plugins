@@ -15,8 +15,8 @@
       "description": "Claude Codeの実装計画をCodex MCPサーバーでレビューするプラグイン"
     },
     {
-      "name": "skill-analyzer",
-      "source": "./plugins/skill-analyzer",
+      "name": "skill-execution-analyzer",
+      "source": "./plugins/skill-execution-analyzer",
       "description": "スキル実行時のエラーや問題点を解析するプラグイン"
     }
   ]
