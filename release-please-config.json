@@ -1,0 +1,40 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "bootstrap-sha": "c70c5be1ad1a94e32c9569f8c43333a397927bee",
+  "separate-pull-requests": true,
+  "packages": {
+    "plugins/claude-changelog": {
+      "release-type": "simple",
+      "component": "claude-changelog",
+      "extra-files": [
+        {
+          "type": "json",
+          "path": ".claude-plugin/plugin.json",
+          "jsonpath": "$.version"
+        }
+      ]
+    },
+    "plugins/codex-plan-review": {
+      "release-type": "simple",
+      "component": "codex-plan-review",
+      "extra-files": [
+        {
+          "type": "json",
+          "path": ".claude-plugin/plugin.json",
+          "jsonpath": "$.version"
+        }
+      ]
+    },
+    "plugins/skill-execution-analyzer": {
+      "release-type": "simple",
+      "component": "skill-execution-analyzer",
+      "extra-files": [
+        {
+          "type": "json",
+          "path": ".claude-plugin/plugin.json",
+          "jsonpath": "$.version"
+        }
+      ]
+    }
+  }
+}
