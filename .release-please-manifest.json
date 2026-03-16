@@ -1,5 +1,5 @@
 {
-  "plugins/claude-changelog": "0.1.0",
+  "plugins/claude-changelog": "0.2.0",
   "plugins/codex-plan-review": "0.3.0",
   "plugins/skill-execution-analyzer": "0.2.0"
 }

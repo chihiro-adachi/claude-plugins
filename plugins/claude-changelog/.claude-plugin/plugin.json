@@ -1,5 +1,5 @@
 {
   "name": "claude-changelog",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Claude Codeの変更履歴を確認・要約するプラグイン"
 }
