@@ -1,5 +1,5 @@
 {
   "name": "codex-plan-review",
-  "version": "0.1.2",
-  "description": "Claude Codeの実装計画をCodex CLIでレビューするプラグイン"
+  "version": "0.2.0",
+  "description": "Claude Codeの実装計画をCodex MCPサーバーでレビューするプラグイン"
 }
