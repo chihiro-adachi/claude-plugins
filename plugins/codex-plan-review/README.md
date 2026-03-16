@@ -22,9 +22,9 @@ Claude Code の実装計画を Codex MCP サーバー経由でレビューする
 ```
 
 ```
-planをCodexにレビューさせて
+planをCodexでレビュー
 ```
 
 ```
-計画をレビューして
+計画をCodexでレビューして
 ```
